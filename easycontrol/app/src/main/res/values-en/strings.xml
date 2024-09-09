@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">EasyControl</string>
+  <string name="app_name">MirrorXR</string>
 
   <!-- 主页 -->
-  <string name="main_poem">Unregulated driving, loved ones end up in tears.</string>
+  <string name="main_poem">Spatial Phone Mirroring</string>
   <string name="car_version_message">If you like the car version\nYou can left a star on the car version GitHub repository🙇</string>
   <string name="main_float_permission">Please grant floating window permission.\nOtherwise, the software functions are incomplete.</string>
   <string name="main_float_permission_button">Go authorize</string>
