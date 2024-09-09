@@ -1,4 +1,4 @@
-# 易控车机版(Easycontrol_For_Car)编译说明
+# MirrorXR 编译说明
 
 ### 此方法编译的apk不包含签名部分设备可能无法使用
 
