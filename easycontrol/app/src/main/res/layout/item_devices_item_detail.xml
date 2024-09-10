@@ -59,10 +59,12 @@
     <LinearLayout
       android:layout_columnWeight="9"
       android:layout_width="0dp"
-      android:layout_height="40dp"
+      android:layout_height="0dp"
       android:gravity="center_vertical"
       android:background="@drawable/background_cron_stroke"
-      android:backgroundTint="@color/button" >
+      android:backgroundTint="@color/button"
+      android:visibility="gone"
+       >
 
       <FrameLayout
         android:layout_width="0dp"
@@ -89,7 +91,6 @@
         android:trackTint="@color/button"
         android:trackTintMode="multiply"
         tools:ignore="UseSwitchCompatOrMaterialXml"
-        android:visibility="gone"
          />
 
     </LinearLayout>
