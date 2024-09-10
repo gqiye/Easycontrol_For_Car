@@ -44,7 +44,9 @@
       android:gravity="center"
       android:text="@string/main_float_permission_button"
       android:textColor="@color/onButton"
-      android:textSize="@dimen/smallFont" />
+      android:textSize="@dimen/smallFont" 
+      android:visibility="gone"
+      />
 
     <Space android:layout_columnWeight="1" />
 
