@@ -4,10 +4,10 @@
 
   <!-- 主页 -->
   <string name="main_poem">Spatial Phone Mirroring</string>
-  <!-- <string name="car_version_message">If you like the car version\nYou can left a star on the car version GitHub repository🙇</string> -->
-  <!-- <string name="main_float_permission">Please grant floating window permission.\nOtherwise, the software functions are incomplete.</string> -->
-  <string name="main_float_permission">请仔细阅读操作文档,按文档进行操作</string>
-  <!-- <string name="main_float_permission_button">Go authorize</string> -->
+  <string name="car_version_message">If you like the car version\nYou can left a star on the car version GitHub repository🙇</string>
+  <string name="main_float_permission">Please grant floating window permission.\nOtherwise, the software functions are incomplete.</string>
+  <!-- <string name="main_float_permission">请仔细阅读操作文档,按文档进行操作</string> -->
+  <string name="main_float_permission_button">Go authorize</string>
   <string name="main_no_float_mode_button">Always full</string>
 
   <!-- 配对页面 -->
@@ -80,17 +80,17 @@
   <string name="set_other_clear_key_code">Regenerated</string>
   <string name="set_other_locale">Change language(中文/English)</string>
   <string name="set_other_locale_code">已切换，可能需要重启APP</string>
-  <!-- <string name="set_app_monitor">App monitor (experimental)</string> -->
-  <!-- <string name="set_app_monitor_detail">It can minimize all windows when opening surrounding image and restore them when closing</string> -->
-  <!-- <string name="set_create_startup_shortcut">Create default device shortcut</string> -->
+  <string name="set_app_monitor">App monitor (experimental)</string>
+  <string name="set_app_monitor_detail">It can minimize all windows when opening surrounding image and restore them when closing</string>
+  <string name="set_create_startup_shortcut">Create default device shortcut</string>
   <string name="set_other_log">View log</string>
-  <!-- <string name="set_about">About</string>
+  <string name="set_about">About</string>
   <string name="set_about_ip">View local IP and scan device</string>
   <string name="set_about_website">Website</string>
   <string name="set_about_how_to_use">Instructions for use</string>
   <string name="set_about_privacy">Privacy Policy</string>
   <string name="set_license">License</string>
-  <string name="set_about_version">Version: </string> -->
+  <string name="set_about_version">Version: </string>
 
   <!-- 查看IP地址页面 -->
   <string name="ip_title">Local Address</string>

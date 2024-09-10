@@ -109,7 +109,9 @@
         android:padding="15dp"
         android:divider="@drawable/divider_line"
         android:dividerPadding="5dp"
-        android:showDividers="middle" />
+        android:showDividers="middle"
+        android:visibility="gone"
+         />
 
     </LinearLayout>
   </ScrollView>
