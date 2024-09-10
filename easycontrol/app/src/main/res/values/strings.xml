@@ -4,9 +4,8 @@
 
   <!-- 主页 -->
   <string name="main_poem">Spatial Phone Mirroring</string>
-  <!-- <string name="car_version_message">如果你喜欢车机版的话\n可以在车机版Github仓库上Star哦🙇</string> -->
+  <string name="car_version_message">如果你喜欢车机版的话\n可以在车机版Github仓库上Star哦🙇</string>
   <string name="main_float_permission">请授予悬浮窗权限\n否则软件功能不完整</string>
-  <!-- <string name="main_float_permission">请仔细阅读操作文档,按文档进行操作</string> -->
   <string name="main_float_permission_button">前往授权悬浮</string>
   <string name="main_no_float_mode_button">始终全屏模式</string>
 
